@@ -1,0 +1,8 @@
+D:\ProgramacionAvanzada2022\Test\Aprueban_Reprueban\bin\Debug\Aprueban_Reprueban.exe.config
+D:\ProgramacionAvanzada2022\Test\Aprueban_Reprueban\bin\Debug\Aprueban_Reprueban.exe
+D:\ProgramacionAvanzada2022\Test\Aprueban_Reprueban\bin\Debug\Aprueban_Reprueban.pdb
+D:\ProgramacionAvanzada2022\Test\Aprueban_Reprueban\obj\Debug\Aprueban_Reprueban.csproj.AssemblyReference.cache
+D:\ProgramacionAvanzada2022\Test\Aprueban_Reprueban\obj\Debug\Aprueban_Reprueban.csproj.SuggestedBindingRedirects.cache
+D:\ProgramacionAvanzada2022\Test\Aprueban_Reprueban\obj\Debug\Aprueban_Reprueban.csproj.CoreCompileInputs.cache
+D:\ProgramacionAvanzada2022\Test\Aprueban_Reprueban\obj\Debug\Aprueban_Reprueban.exe
+D:\ProgramacionAvanzada2022\Test\Aprueban_Reprueban\obj\Debug\Aprueban_Reprueban.pdb

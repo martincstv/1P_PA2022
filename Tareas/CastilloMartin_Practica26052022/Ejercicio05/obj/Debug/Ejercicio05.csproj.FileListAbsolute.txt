@@ -1,0 +1,8 @@
+C:\Users\marti\source\repos\CastilloMartin_Practica26052022\Ejercicio05\bin\Debug\Ejercicio05.exe.config
+C:\Users\marti\source\repos\CastilloMartin_Practica26052022\Ejercicio05\bin\Debug\Ejercicio05.exe
+C:\Users\marti\source\repos\CastilloMartin_Practica26052022\Ejercicio05\bin\Debug\Ejercicio05.pdb
+C:\Users\marti\source\repos\CastilloMartin_Practica26052022\Ejercicio05\obj\Debug\Ejercicio05.csproj.AssemblyReference.cache
+C:\Users\marti\source\repos\CastilloMartin_Practica26052022\Ejercicio05\obj\Debug\Ejercicio05.csproj.SuggestedBindingRedirects.cache
+C:\Users\marti\source\repos\CastilloMartin_Practica26052022\Ejercicio05\obj\Debug\Ejercicio05.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\CastilloMartin_Practica26052022\Ejercicio05\obj\Debug\Ejercicio05.exe
+C:\Users\marti\source\repos\CastilloMartin_Practica26052022\Ejercicio05\obj\Debug\Ejercicio05.pdb

@@ -1,0 +1,3 @@
+C:\Users\marti\source\repos\CastilloMartin_TareaVectores2\Ejercicio6\obj\Debug\Ejercicio6.csproj.AssemblyReference.cache
+C:\Users\marti\source\repos\CastilloMartin_TareaVectores2\Ejercicio6\obj\Debug\Ejercicio6.csproj.SuggestedBindingRedirects.cache
+C:\Users\marti\source\repos\CastilloMartin_TareaVectores2\Ejercicio6\obj\Debug\Ejercicio6.csproj.CoreCompileInputs.cache

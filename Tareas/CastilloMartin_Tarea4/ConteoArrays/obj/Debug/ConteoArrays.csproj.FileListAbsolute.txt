@@ -1,0 +1,8 @@
+D:\ProgramacionAvanzada2022\Test\ConteoArrays\bin\Debug\ConteoArrays.exe.config
+D:\ProgramacionAvanzada2022\Test\ConteoArrays\bin\Debug\ConteoArrays.exe
+D:\ProgramacionAvanzada2022\Test\ConteoArrays\bin\Debug\ConteoArrays.pdb
+D:\ProgramacionAvanzada2022\Test\ConteoArrays\obj\Debug\ConteoArrays.csproj.AssemblyReference.cache
+D:\ProgramacionAvanzada2022\Test\ConteoArrays\obj\Debug\ConteoArrays.csproj.SuggestedBindingRedirects.cache
+D:\ProgramacionAvanzada2022\Test\ConteoArrays\obj\Debug\ConteoArrays.csproj.CoreCompileInputs.cache
+D:\ProgramacionAvanzada2022\Test\ConteoArrays\obj\Debug\ConteoArrays.exe
+D:\ProgramacionAvanzada2022\Test\ConteoArrays\obj\Debug\ConteoArrays.pdb

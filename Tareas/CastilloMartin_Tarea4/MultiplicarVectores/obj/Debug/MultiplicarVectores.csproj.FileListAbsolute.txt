@@ -1,0 +1,8 @@
+D:\ProgramacionAvanzada2022\Test\MultiplicarVectores\bin\Debug\MultiplicarVectores.exe.config
+D:\ProgramacionAvanzada2022\Test\MultiplicarVectores\bin\Debug\MultiplicarVectores.exe
+D:\ProgramacionAvanzada2022\Test\MultiplicarVectores\bin\Debug\MultiplicarVectores.pdb
+D:\ProgramacionAvanzada2022\Test\MultiplicarVectores\obj\Debug\MultiplicarVectores.csproj.AssemblyReference.cache
+D:\ProgramacionAvanzada2022\Test\MultiplicarVectores\obj\Debug\MultiplicarVectores.csproj.SuggestedBindingRedirects.cache
+D:\ProgramacionAvanzada2022\Test\MultiplicarVectores\obj\Debug\MultiplicarVectores.csproj.CoreCompileInputs.cache
+D:\ProgramacionAvanzada2022\Test\MultiplicarVectores\obj\Debug\MultiplicarVectores.exe
+D:\ProgramacionAvanzada2022\Test\MultiplicarVectores\obj\Debug\MultiplicarVectores.pdb

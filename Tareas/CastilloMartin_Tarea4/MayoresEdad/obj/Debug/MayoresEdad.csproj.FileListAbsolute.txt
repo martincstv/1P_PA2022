@@ -1,0 +1,8 @@
+D:\ProgramacionAvanzada2022\Test\MayoresEdad\bin\Debug\MayoresEdad.exe.config
+D:\ProgramacionAvanzada2022\Test\MayoresEdad\bin\Debug\MayoresEdad.exe
+D:\ProgramacionAvanzada2022\Test\MayoresEdad\bin\Debug\MayoresEdad.pdb
+D:\ProgramacionAvanzada2022\Test\MayoresEdad\obj\Debug\MayoresEdad.csproj.AssemblyReference.cache
+D:\ProgramacionAvanzada2022\Test\MayoresEdad\obj\Debug\MayoresEdad.csproj.SuggestedBindingRedirects.cache
+D:\ProgramacionAvanzada2022\Test\MayoresEdad\obj\Debug\MayoresEdad.csproj.CoreCompileInputs.cache
+D:\ProgramacionAvanzada2022\Test\MayoresEdad\obj\Debug\MayoresEdad.exe
+D:\ProgramacionAvanzada2022\Test\MayoresEdad\obj\Debug\MayoresEdad.pdb

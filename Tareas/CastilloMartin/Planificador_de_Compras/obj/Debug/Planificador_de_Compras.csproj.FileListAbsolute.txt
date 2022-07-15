@@ -1,0 +1,11 @@
+D:\ProgramacionAvanzada2022\Tarea#1\CastilloMartin\Planificador_de_Compras\bin\Debug\Planificador_de_Compras.exe.config
+D:\ProgramacionAvanzada2022\Tarea#1\CastilloMartin\Planificador_de_Compras\bin\Debug\Planificador_de_Compras.exe
+D:\ProgramacionAvanzada2022\Tarea#1\CastilloMartin\Planificador_de_Compras\bin\Debug\Planificador_de_Compras.pdb
+D:\ProgramacionAvanzada2022\Tarea#1\CastilloMartin\Planificador_de_Compras\obj\Debug\Planificador_de_Compras.csproj.AssemblyReference.cache
+D:\ProgramacionAvanzada2022\Tarea#1\CastilloMartin\Planificador_de_Compras\obj\Debug\Planificador_de_Compras.csproj.SuggestedBindingRedirects.cache
+D:\ProgramacionAvanzada2022\Tarea#1\CastilloMartin\Planificador_de_Compras\obj\Debug\Planificador_de_Compras.Form_Planner.resources
+D:\ProgramacionAvanzada2022\Tarea#1\CastilloMartin\Planificador_de_Compras\obj\Debug\Planificador_de_Compras.Properties.Resources.resources
+D:\ProgramacionAvanzada2022\Tarea#1\CastilloMartin\Planificador_de_Compras\obj\Debug\Planificador_de_Compras.csproj.GenerateResource.cache
+D:\ProgramacionAvanzada2022\Tarea#1\CastilloMartin\Planificador_de_Compras\obj\Debug\Planificador_de_Compras.csproj.CoreCompileInputs.cache
+D:\ProgramacionAvanzada2022\Tarea#1\CastilloMartin\Planificador_de_Compras\obj\Debug\Planificador_de_Compras.exe
+D:\ProgramacionAvanzada2022\Tarea#1\CastilloMartin\Planificador_de_Compras\obj\Debug\Planificador_de_Compras.pdb

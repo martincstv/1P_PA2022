@@ -1,0 +1,11 @@
+C:\Users\marti\source\repos\CastilloMartin_TareaVectores2\Ejercicio11\bin\Debug\Ejercicio11.exe.config
+C:\Users\marti\source\repos\CastilloMartin_TareaVectores2\Ejercicio11\bin\Debug\Ejercicio11.exe
+C:\Users\marti\source\repos\CastilloMartin_TareaVectores2\Ejercicio11\bin\Debug\Ejercicio11.pdb
+C:\Users\marti\source\repos\CastilloMartin_TareaVectores2\Ejercicio11\bin\Debug\Metodos.dll
+C:\Users\marti\source\repos\CastilloMartin_TareaVectores2\Ejercicio11\bin\Debug\Metodos.pdb
+C:\Users\marti\source\repos\CastilloMartin_TareaVectores2\Ejercicio11\obj\Debug\Ejercicio11.csproj.AssemblyReference.cache
+C:\Users\marti\source\repos\CastilloMartin_TareaVectores2\Ejercicio11\obj\Debug\Ejercicio11.csproj.SuggestedBindingRedirects.cache
+C:\Users\marti\source\repos\CastilloMartin_TareaVectores2\Ejercicio11\obj\Debug\Ejercicio11.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\CastilloMartin_TareaVectores2\Ejercicio11\obj\Debug\Ejercicio11.csproj.CopyComplete
+C:\Users\marti\source\repos\CastilloMartin_TareaVectores2\Ejercicio11\obj\Debug\Ejercicio11.exe
+C:\Users\marti\source\repos\CastilloMartin_TareaVectores2\Ejercicio11\obj\Debug\Ejercicio11.pdb

@@ -1,0 +1,8 @@
+D:\ProgramacionAvanzada2022\Test\OrdenamientoVectores\obj\Debug\OrdenamientoVectores.csproj.AssemblyReference.cache
+D:\ProgramacionAvanzada2022\Test\OrdenamientoVectores\obj\Debug\OrdenamientoVectores.csproj.SuggestedBindingRedirects.cache
+D:\ProgramacionAvanzada2022\Test\OrdenamientoVectores\obj\Debug\OrdenamientoVectores.csproj.CoreCompileInputs.cache
+D:\ProgramacionAvanzada2022\Test\OrdenamientoVectores\bin\Debug\OrdenamientoVectores.exe.config
+D:\ProgramacionAvanzada2022\Test\OrdenamientoVectores\bin\Debug\OrdenamientoVectores.exe
+D:\ProgramacionAvanzada2022\Test\OrdenamientoVectores\bin\Debug\OrdenamientoVectores.pdb
+D:\ProgramacionAvanzada2022\Test\OrdenamientoVectores\obj\Debug\OrdenamientoVectores.exe
+D:\ProgramacionAvanzada2022\Test\OrdenamientoVectores\obj\Debug\OrdenamientoVectores.pdb

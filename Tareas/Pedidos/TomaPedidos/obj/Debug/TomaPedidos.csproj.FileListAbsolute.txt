@@ -1,0 +1,12 @@
+D:\ProgramacionAvanzada2022\Pedidos\TomaPedidos\bin\Debug\TomaPedidos.exe.config
+D:\ProgramacionAvanzada2022\Pedidos\TomaPedidos\bin\Debug\TomaPedidos.exe
+D:\ProgramacionAvanzada2022\Pedidos\TomaPedidos\bin\Debug\TomaPedidos.pdb
+D:\ProgramacionAvanzada2022\Pedidos\TomaPedidos\obj\Debug\TomaPedidos.csproj.AssemblyReference.cache
+D:\ProgramacionAvanzada2022\Pedidos\TomaPedidos\obj\Debug\TomaPedidos.csproj.SuggestedBindingRedirects.cache
+D:\ProgramacionAvanzada2022\Pedidos\TomaPedidos\obj\Debug\TomaPedidos.Form_Pedido.resources
+D:\ProgramacionAvanzada2022\Pedidos\TomaPedidos\obj\Debug\TomaPedidos.Form_Producto.resources
+D:\ProgramacionAvanzada2022\Pedidos\TomaPedidos\obj\Debug\TomaPedidos.Properties.Resources.resources
+D:\ProgramacionAvanzada2022\Pedidos\TomaPedidos\obj\Debug\TomaPedidos.csproj.GenerateResource.cache
+D:\ProgramacionAvanzada2022\Pedidos\TomaPedidos\obj\Debug\TomaPedidos.csproj.CoreCompileInputs.cache
+D:\ProgramacionAvanzada2022\Pedidos\TomaPedidos\obj\Debug\TomaPedidos.exe
+D:\ProgramacionAvanzada2022\Pedidos\TomaPedidos\obj\Debug\TomaPedidos.pdb
